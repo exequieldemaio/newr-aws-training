@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="sourceMapEmbedSources" />
+    <option name="sourceMapPrefix" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../alchemist" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cars-md" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hal" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vr-ads-catalog" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vr-backoffice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vr-commons-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vr-ui-account" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vr-ui-booking" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vr-ui-contact" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vr-ui-detail" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vr-ui-messaging" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vr-ui-my-ads" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vr-ui-search" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home" />
+  </component>
+</project>
